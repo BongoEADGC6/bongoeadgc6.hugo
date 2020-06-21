@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Building Images for GCP
-category: DevOps
+date: 2019-09-11T04:00:00Z
+author: "Cliff Hults"
+categories: [DevOps]
 tags: [devops, packer, terraform, ansible]
 ---
 

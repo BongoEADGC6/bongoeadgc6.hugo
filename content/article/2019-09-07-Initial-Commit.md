@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Initial Commit!
-category: Info
+date: 2019-09-07T04:00:00Z
+author: "Cliff Hults"
+categories: [Info]
 tags: [hello, world, start, initial, init]
 ---
 

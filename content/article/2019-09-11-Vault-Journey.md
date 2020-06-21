@@ -1,7 +1,8 @@
 ---
-layout: post
+date: 2019-09-11T04:00:00Z
+author: "Cliff Hults"
 title: Vault Journey
-category: Vault
+categories: [DevOps]
 tags: [vault, devops, terraform, ansible]
 ---
 
