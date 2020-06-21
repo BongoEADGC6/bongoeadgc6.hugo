@@ -29,9 +29,9 @@ disqusShortname = "bilberry-hugo-theme"
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
+  author = "Cliff Hults"
+  description = "Personal tech blog."
+  keywords = "blog,personal,responsive,search,font awesome,pages,posts,highlight.js,syntax highlighting,shortcuts"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -55,10 +55,10 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "A personal blog to compile notes, thoughts, and many mistakes of a SysAdmin's journey."
 
     # if you want to use gravatar for the header image
-    gravatarEMail = "code@lednerb.de"
+    gravatarEMail = "cliff.hults@gmail.com"
 
     # set an path to the image file you want to use | overwrites gravatar
     customImage = ""
@@ -91,7 +91,7 @@ disqusShortname = "bilberry-hugo-theme"
     dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = false
+    showReadingTime = true
 
   # Footer configuration
     showFooter = true
@@ -114,8 +114,7 @@ disqusShortname = "bilberry-hugo-theme"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://github.com/BongoEADGC6", icon = "fab fa-github" },
     ]
 
     # credits line configuration
