@@ -2,7 +2,7 @@ title = "HagueSt Blog"
 #baseURL = "http://haguest.com/"
 baseURL = "https://bongoeadgc6.github.io/"
 theme = "bilberry-hugo-theme"
-publishDir = "bongoeadgc6.github.io"
+publishDir = "public"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
