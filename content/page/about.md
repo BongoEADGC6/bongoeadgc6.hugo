@@ -3,15 +3,17 @@ title: "About Me"
 date: 2020-06-22T22:32:00-04:00
 excludeFromTopNav: false
 showDate: false
-weight: 1
+weight: 2
 ---
 
-I am a Systems Administrator hailing from the Garden State (NJ).
-Highly experienced in large scale enteprise grade systems and infrastructure
-with interest in software development.
+Hailing from the great Garden State of New Jersey.
+
+Highly experienced Systems Administrator in large scale enteprise grade systems 
+and an advocat of Open Source with interest in software development.
 
 Current Projects:
 * Kubernetes Clustering
 * Automating everything with Ansible
+* SRE Practices
 * Golang
 * Home automation
